@@ -7,7 +7,7 @@ class anki {
 
   package { 'Anki':
     provider => 'appdmg',
-    source   => 'http://ankisrs.net/download/mirror/anki-2.0.8.dmg'
+    source   => 'http://ankisrs.net/download/mirror/anki-2.0.31.dmg'
   }
 
 }
